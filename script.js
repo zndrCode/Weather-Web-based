@@ -1,3 +1,4 @@
+//Final Version
 function getWeather() {
     const apiKey = 'YOUR API';
     const city = document.getElementById('city').value;
